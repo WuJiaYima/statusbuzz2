@@ -1,0 +1,13 @@
+.wjy{
+  width: 100px;
+  height: 10px;
+  border: 10px solid red;
+}
+.jy
+{
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  width: 400px;
+  border: 10px solid blue;
+}
