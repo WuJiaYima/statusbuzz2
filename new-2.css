@@ -1,13 +1,18 @@
 .wjy{
-  width: 100px;
-  height: 10px;
+  position: absolute;
+  width: 400px;
+  top: 100px;
   border: 10px solid red;
 }
 .jy
 {
   position: absolute;
-  top: 150px;
-  left: 100px;
+  top: 200px;
   width: 400px;
   border: 10px solid blue;
+}
+.jj {
+  position: relative;
+  top: 200px;
+  left: 200px;
 }
