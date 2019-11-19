@@ -60,7 +60,6 @@ a:visited {
   border-bottom:    thin dotted #675c47;
 }
 #allcontent {
-  width: 800px;
   padding-top: 5px;
   padding-bottom: 5px;
   background-color: #675c47;
@@ -73,4 +72,27 @@ div#tablecontainer {
 }
 div#tablerow {
   display: table-row;
+}
+#drink {
+  display: table;
+  background-color: #efe5d0;
+  width: 20%;
+  padding:15px;
+  vertical-align: top;
+}
+#headerslogan {
+  float: right;
+}
+#award {
+  position: absolute;
+  top: 30px;
+  left: 365px;
+}
+#coupon {
+  position:fixed;
+  top: 350px;
+  left: -90px;
+}
+#coupon a, img {
+  border:none;
 }
